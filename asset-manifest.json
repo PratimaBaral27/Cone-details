@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Cone-details/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/Cone-details/static/js/main.3d464983.chunk.js",
+    "main.js.map": "/Cone-details/static/js/main.3d464983.chunk.js.map",
+    "runtime-main.js": "/Cone-details/static/js/runtime-main.a6cf51bb.js",
+    "runtime-main.js.map": "/Cone-details/static/js/runtime-main.a6cf51bb.js.map",
+    "static/js/2.dbad67cf.chunk.js": "/Cone-details/static/js/2.dbad67cf.chunk.js",
+    "static/js/2.dbad67cf.chunk.js.map": "/Cone-details/static/js/2.dbad67cf.chunk.js.map",
+    "static/js/3.7b73afa3.chunk.js": "/Cone-details/static/js/3.7b73afa3.chunk.js",
+    "static/js/3.7b73afa3.chunk.js.map": "/Cone-details/static/js/3.7b73afa3.chunk.js.map",
+    "index.html": "/Cone-details/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/Cone-details/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.dbad67cf.chunk.js.LICENSE.txt": "/Cone-details/static/js/2.dbad67cf.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Cone-details/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6cf51bb.js",
+    "static/js/2.dbad67cf.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.3d464983.chunk.js"
+  ]
+}
